@@ -1,0 +1,1 @@
+#!/bin/bash\lngcc -E $CFILE -o c
